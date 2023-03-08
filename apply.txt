@@ -30,4 +30,4 @@ Search online to check out some coding and system design mock interviewsPractise
 
 ke diagrams.net or whimsical.com to draw yoursystem
 
-refresher by trying out some questions fromLeetCode, HackerRank, etc. beforehand. 
+refresher by trying out some questions fromLeetCode, HackerRank, etc. beforehand.  r
